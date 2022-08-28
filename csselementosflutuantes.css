@@ -1,0 +1,14 @@
+.conteudo {
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+}
+
+.conteudo1 {
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
